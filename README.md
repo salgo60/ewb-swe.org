@@ -8,3 +8,4 @@ repository to track my communication with [ewb-swe](https://www.ewb-swe.org/inte
  ## next step
  * contact local group stockholm
 
+![Magnus Sälgö](https://pbs.twimg.com/profile_images/1748244270715142144/NVGLiTtK_400x400.jpg)
