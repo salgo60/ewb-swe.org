@@ -7,3 +7,4 @@ repository to track my communication with [ewb-swe](https://www.ewb-swe.org/inte
 
  ## next step
  * contact local group stockholm
+
